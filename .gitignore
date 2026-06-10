@@ -7,3 +7,8 @@
 /announce.md
 /mods
 /UminekoCatboxSpanish
+
+# Archivos de trabajo de la traduccion ES (locales, no parte del parche)
+/_patch_es.txt
+/_apply_patch.ps1
+/.claude/settings.local.json
