@@ -7,7 +7,7 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-09_
 
-**Avance EP1:** ~6.090 / ~7.460 líneas (~82%). Workflow de traducción multi-agente en marcha (oleadas de 1500 líneas). Próxima línea: 41665.
+**Avance EP1:** ✅ **COMPLETO** (~7.460 líneas, 100%). Episodio 1 "Leyenda de la Bruja Dorada" totalmente traducido al español. Próximo: EP2 (desde línea 48132).
 
 ---
 
@@ -18,7 +18,7 @@ _Última actualización: 2026-06-09_
 | Infraestructura / build (GitHub Actions) | ✅ Listo | Compila y genera parche descargable |
 | Caracteres del español (acentos, ¿ ¡) | ✅ Listo | Renderizan correctamente en el juego |
 | Menús y mensajes del sistema (guardar, cargar, config, Sí/No…) | ✅ ~Completo | Falta solo algún término menor |
-| **Guion — Episodio 1** | 🟡 En curso | ~Apertura traducida (prólogo + escena de la avioneta) |
+| **Guion — Episodio 1** | ✅ Completo | Episodio 1 entero traducido (~7.460 líneas) |
 | Guion — Episodios 2–8 | ⬜ Pendiente | — |
 | Tsubasa / Hane / contenido extra de Saku | ⬜ Pendiente | — |
 | Juego de deducción de Bernkastel (EP8, texto de exefs) | ⬜ Pendiente | 1 de ~34 bloques |
@@ -30,7 +30,7 @@ Total de líneas de diálogo del juego: **~72.850**.
 
 | Episodio | Rango aprox. | Estado | Líneas traducidas |
 |---|---|---|---|
-| EP1 — Legend of the Golden Witch | 18434–48131 | 🟡 En curso (~4%) | Prólogo + avioneta + 1.ª oleada workflow (18714–19910) |
+| EP1 — Leyenda de la Bruja Dorada | 18434–48131 | ✅ Completo | Episodio entero traducido (prólogo → fiesta del té de Beatrice → Bernkastel) |
 | EP2–EP8 | — | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
@@ -38,6 +38,7 @@ Total de líneas de diálogo del juego: **~72.850**.
 
 - **2026-06-09** — Puesta a punto del entorno (fork, build CI v4, guía de estilo). Traducida la escena de la avioneta del EP1 (líneas 18668–18708, charla Battler/George). Confirmado en el juego que los acentos renderizan bien.
 - **2026-06-09** — Corregido bug de título ("ÉEpisodio"→"Episodio") y completados los menús de sistema. Validado el workflow multi-agente de traducción: 1.ª oleada del EP1 (300 líneas, 18714–19910: presentación de Battler, George, Hideyoshi, Eva, Kyrie) traducida y aplicada con validación de etiquetas.
+- **2026-06-10** — ✅ **Episodio 1 completado** (~7.460 líneas) mediante 7 oleadas del workflow multi-agente. Incluye la llegada a Rokkenjima, la cena, los crímenes de los crepúsculos, la carta y la cláusula de Beatrice, y la fiesta del té con Bernkastel. Control de calidad: tildes/eñes, etiquetas de voz `@v`, `@|`/`@y`, comillas rectas y vocales no duplicadas. Cada oleada validada y compilada en CI.
 
 ---
 
