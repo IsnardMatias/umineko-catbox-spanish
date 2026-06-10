@@ -9,6 +9,10 @@
 /UminekoCatboxSpanish
 
 # Archivos de trabajo de la traduccion ES (locales, no parte del parche)
-/_patch_es.txt
-/_apply_patch.ps1
 /.claude/settings.local.json
+/_*.ps1
+/_*.js
+/_*.json
+/_*.txt
+/_tools/
+/_img_extraidas/
