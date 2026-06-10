@@ -5,9 +5,9 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 > **Estado general:** 🟡 En curso — fase inicial. La infraestructura, el build automático y los menús del sistema están listos; la traducción del guion principal está empezando.
 
-_Última actualización: 2026-06-09_
+_Última actualización: 2026-06-10_
 
-**EP1:** ✅ COMPLETO (~7.460 líneas). · **EP2** "Turno de la Bruja Dorada": 🟡 en curso (~6.000 líneas). Próxima línea: 77767.
+**EP1:** ✅ COMPLETO (~7.460 líneas). · **EP2** "Turno de la Bruja Dorada": ✅ **COMPLETO** (~7.200 líneas). · Próximo: **EP3** (desde línea 86344).
 
 ---
 
@@ -31,7 +31,7 @@ Total de líneas de diálogo del juego: **~72.850**.
 | Episodio | Rango aprox. | Estado | Líneas traducidas |
 |---|---|---|---|
 | EP1 — Leyenda de la Bruja Dorada | 18434–48131 | ✅ Completo | Episodio entero traducido (prólogo → fiesta del té de Beatrice → Bernkastel) |
-| EP2 — Turno de la Bruja Dorada | 48132–86343 | 🟡 En curso | ~4.500 líneas (hasta la batalla de verdad roja de la capilla) |
+| EP2 — Turno de la Bruja Dorada | 48132–86343 | ✅ Completo | Episodio entero (acuario, propuesta de George, verdad roja, las tres brujas) |
 | EP3–EP8 | — | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
@@ -48,3 +48,4 @@ Se mantienen honoríficos (-san, -kun, nii-san, aniki…) y nombres originales (
 
 ### Cómo probar las versiones de prueba
 Cada cambio genera una compilación en la pestaña **Actions** del repositorio; descarga el artefacto `patch_atmos` (Ryujinx/consola) o `patch_yuzu` (yuzu/Eden) e instálalo como el parche original.
+- **2026-06-10** — ✅ **Episodio 2 completado** (~7.200 líneas) en 5 oleadas: la cita de George/Shannon en el acuario, la propuesta de matrimonio, el ajedrez de Kinzo y Nanjo, la batalla de la verdad roja sobre el cuarto cerrado de la capilla, y la escena meta de las tres brujas (Beatrice, Bernkastel, Lambdadelta).
