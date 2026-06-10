@@ -7,7 +7,7 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-09_
 
-**Avance EP1:** ~1.590 / ~7.460 líneas (~21%). Workflow de traducción multi-agente en marcha (oleadas de 600 líneas). Próxima línea: 24172.
+**Avance EP1:** ~3.090 / ~7.460 líneas (~41%). Workflow de traducción multi-agente en marcha (oleadas de 1500 líneas). Próxima línea: 29707.
 
 ---
 
