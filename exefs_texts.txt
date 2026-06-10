@@ -35,7 +35,7 @@
 0x162c2a	¿Cargar desde este marcador?	ロードします。よろしいですか？
 0x162c58	¿Eliminar este marcador?	このセーブデータを削除します。よろしいですか？
 0x162147	¿Guardar el marcador en esta página?	セーブを行います。よろしいですか？
-0x162fd0	¿Mover este marcador en esta página?	セーブを行います。@r内容は上書きされますが、よろしいですか？
+0x162fd0	¿Sobrescribir este marcador?	セーブを行います。@r内容は上書きされますが、よろしいですか？
 0x15f8f8	Marcador vacío	データがありません
 0x162105	Pos. del cursor	カーソル位置
 0x161aae	Posición del juego	ゲーム内現在位置
