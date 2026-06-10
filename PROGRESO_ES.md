@@ -7,7 +7,7 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-09_
 
-**Avance EP1:** ✅ **COMPLETO** (~7.460 líneas, 100%). Episodio 1 "Leyenda de la Bruja Dorada" totalmente traducido al español. Próximo: EP2 (desde línea 48132).
+**EP1:** ✅ COMPLETO (~7.460 líneas). · **EP2** "Turno de la Bruja Dorada": 🟡 en curso (~1.500 líneas). Próxima línea: 53813.
 
 ---
 
@@ -31,7 +31,8 @@ Total de líneas de diálogo del juego: **~72.850**.
 | Episodio | Rango aprox. | Estado | Líneas traducidas |
 |---|---|---|---|
 | EP1 — Leyenda de la Bruja Dorada | 18434–48131 | ✅ Completo | Episodio entero traducido (prólogo → fiesta del té de Beatrice → Bernkastel) |
-| EP2–EP8 | — | ⬜ Pendiente | 0 |
+| EP2 — Turno de la Bruja Dorada | 48132–86343 | 🟡 En curso | ~1.500 líneas (cita acuario George/Shannon, Jessica/Kanon) |
+| EP3–EP8 | — | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
 ## Registro de avances
