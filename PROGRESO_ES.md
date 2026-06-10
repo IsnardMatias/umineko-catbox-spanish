@@ -7,7 +7,7 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-09_
 
-**EP1:** ✅ COMPLETO (~7.460 líneas). · **EP2** "Turno de la Bruja Dorada": 🟡 en curso (~1.500 líneas). Próxima línea: 53813.
+**EP1:** ✅ COMPLETO (~7.460 líneas). · **EP2** "Turno de la Bruja Dorada": 🟡 en curso (~3.000 líneas). Próxima línea: 60980.
 
 ---
 
@@ -31,7 +31,7 @@ Total de líneas de diálogo del juego: **~72.850**.
 | Episodio | Rango aprox. | Estado | Líneas traducidas |
 |---|---|---|---|
 | EP1 — Leyenda de la Bruja Dorada | 18434–48131 | ✅ Completo | Episodio entero traducido (prólogo → fiesta del té de Beatrice → Bernkastel) |
-| EP2 — Turno de la Bruja Dorada | 48132–86343 | 🟡 En curso | ~1.500 líneas (cita acuario George/Shannon, Jessica/Kanon) |
+| EP2 — Turno de la Bruja Dorada | 48132–86343 | 🟡 En curso | ~3.000 líneas (acuario, propuesta de George, Shannon vs Beatrice) |
 | EP3–EP8 | — | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
