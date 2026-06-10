@@ -7,6 +7,8 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-09_
 
+**Avance EP1:** ~317 / 7.373 líneas (~4%). Workflow de traducción multi-agente validado y en marcha.
+
 ---
 
 ## Resumen rápido
@@ -28,13 +30,14 @@ Total de líneas de diálogo del juego: **~72.850**.
 
 | Episodio | Rango aprox. | Estado | Líneas traducidas |
 |---|---|---|---|
-| EP1 — Legend of the Golden Witch | desde 18474 | 🟡 En curso | Prólogo (18474–18626) + escena avioneta (18668–18708) |
+| EP1 — Legend of the Golden Witch | 18434–48131 | 🟡 En curso (~4%) | Prólogo + avioneta + 1.ª oleada workflow (18714–19910) |
 | EP2–EP8 | — | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
 ## Registro de avances
 
 - **2026-06-09** — Puesta a punto del entorno (fork, build CI v4, guía de estilo). Traducida la escena de la avioneta del EP1 (líneas 18668–18708, charla Battler/George). Confirmado en el juego que los acentos renderizan bien.
+- **2026-06-09** — Corregido bug de título ("ÉEpisodio"→"Episodio") y completados los menús de sistema. Validado el workflow multi-agente de traducción: 1.ª oleada del EP1 (300 líneas, 18714–19910: presentación de Battler, George, Hideyoshi, Eva, Kyrie) traducida y aplicada con validación de etiquetas.
 
 ---
 
