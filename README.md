@@ -1,3 +1,10 @@
+<!-- ===== Traducción al español (fork) ===== -->
+> 🇪🇸 **Traducción al español en curso.** Este es un fork del parche para traducir el juego al español.
+> Consulta el estado y el avance en **[PROGRESO_ES.md](PROGRESO_ES.md)**. Criterio de traducción en [GUIA_DE_ESTILO_ES.md](GUIA_DE_ESTILO_ES.md).
+> Todo el crédito del parche original y la herramienta es del proyecto inglés ([enlace canónico](https://andolga.github.io/umineko-catbox-english)).
+
+---
+
 This project is dedicated, in its entirety, to my beloved Tara.
 
 Reading Umineko together, with this patch, while it was still being worked on,
