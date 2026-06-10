@@ -32,7 +32,7 @@ Total de líneas de diálogo del juego: **~72.850**.
 |---|---|---|---|
 | EP1 — Leyenda de la Bruja Dorada | 18434–48131 | ✅ Completo | Episodio entero traducido (prólogo → fiesta del té de Beatrice → Bernkastel) |
 | EP2 — Turno de la Bruja Dorada | 48132–86343 | ✅ Completo | Episodio entero (acuario, propuesta de George, verdad roja, las tres brujas) |
-| EP3 — Banquete de la Bruja Dorada | 86344–137226 | 🟡 En curso | ~3.000 líneas (Cuervo de Hempel, batalla mitológica de brujas) |
+| EP3 — Banquete de la Bruja Dorada | 86344–137226 | 🟡 En curso | ~4.500 líneas (hasta Eva-Beatrice y el oceano de gelatina) |
 | EP4–EP8 | — | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
