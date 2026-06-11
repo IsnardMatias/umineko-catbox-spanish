@@ -7,7 +7,7 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-10_
 
-**EP1:** ✅ COMPLETO (~7.460 líneas). · **EP2** "Turno de la Bruja Dorada": ✅ **COMPLETO** (~7.200 líneas). · Próximo: **EP3** (desde línea 86344).
+**EP1, EP2, EP3:** ✅ COMPLETOS. · Próximo: **EP4** (desde línea 137227).
 
 ---
 
@@ -32,7 +32,7 @@ Total de líneas de diálogo del juego: **~72.850**.
 |---|---|---|---|
 | EP1 — Leyenda de la Bruja Dorada | 18434–48131 | ✅ Completo | Episodio entero traducido (prólogo → fiesta del té de Beatrice → Bernkastel) |
 | EP2 — Turno de la Bruja Dorada | 48132–86343 | ✅ Completo | Episodio entero (acuario, propuesta de George, verdad roja, las tres brujas) |
-| EP3 — Banquete de la Bruja Dorada | 86344–137226 | 🟡 En curso (~7.200 líneas) | hasta Eva matando a George y Nanjo |
+| EP3 — Banquete de la Bruja Dorada | 86344–137226 | ✅ Completo | Episodio entero (Cuervo de Hempel, Eva-Beatrice, Ange en 1998) |
 | EP4–EP8 | — | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
