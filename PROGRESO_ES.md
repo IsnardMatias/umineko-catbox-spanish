@@ -7,9 +7,9 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-12_
 
-> **¡Historia principal completa!** Los 8 episodios traducidos (~63.400 líneas). Solo faltan los extras (Tsubasa/Hane/Saku, ~6.450 líneas).
+> **¡GUION COMPLETO!** Los 8 episodios + todos los extras (Tsubasa/Hane/Saku) traducidos (~70.000 líneas de diálogo), más los 172 títulos de sección en pantalla. No queda texto del guion sin traducir.
 
-**EP1–EP8:** ✅ COMPLETOS (los 8 episodios principales). · Próximo: **extras** (Tsubasa/Hane/Saku, desde línea 419566).
+**EP1–EP8 + extras (Tsubasa/Hane/Saku):** ✅ **TODO EL GUION TRADUCIDO.** Incluidos los títulos de capítulo/sección en pantalla.
 
 ---
 
@@ -21,7 +21,8 @@ _Última actualización: 2026-06-12_
 | Caracteres del español (acentos, ¿ ¡) | ✅ Listo | Renderizan correctamente en el juego |
 | Menús y mensajes del sistema (guardar, cargar, config, Sí/No…) | ✅ ~Completo | Falta solo algún término menor |
 | **Guion — Episodios 1–8** | ✅ Completos | Historia principal entera traducida (~63.400 líneas) |
-| Extras (Tsubasa/Hane/Saku) | ⬜ Pendiente | ~6.450 líneas |
+| **Extras (Tsubasa/Hane/Saku)** | ✅ Completos | ~6.450 líneas (cartas, historias cortas, Saku) |
+| **Títulos de sección/capítulo** | ✅ Completos | 172 títulos de las cards en pantalla |
 | Tsubasa / Hane / contenido extra de Saku | 🟡 Siguiente | ~6.450 líneas (Tsubasa ~3.985, Saku ~1.901, Hane ~557) |
 | Juego de deducción de Bernkastel (EP8, texto de exefs) | ⬜ Pendiente | 1 de ~34 bloques |
 | Imágenes con texto (logos, botones) | ⬜ Pendiente | — |
@@ -40,7 +41,7 @@ Total de líneas de diálogo del juego: **~72.850**.
 | EP6 — Amanecer de la Bruja Dorada | 250539–309875 | ✅ Completo | Episodio entero (las dos Beato, demonios Zepar/Furfur, cuarto cerrado de cadena, resurrección de Beatrice, Bernkastel y Featherine) |
 | EP7 — Réquiem de la Bruja Dorada | 309876–356208 | ✅ Completo | Episodio entero (pasado de Kinzo y Bice, origen de Yasu/Beatrice, mundo de Lion, Will y Clair, masacre de Kyrie/Rudolf, el juego final para Ange) |
 | EP8 — Crepúsculo de la Bruja Dorada | 356209–419565 | ✅ Completo | Episodio entero (la llave de Ange, fiesta de Halloween, batalla de la Tierra Dorada, Bern vs Lambda, el reencuentro de Ange con Tohya/Battler en 1998 y el epílogo de la Casa del Evangelio) |
-| Extras (Tsubasa, Hane, Saku) | 419566–fin | ⬜ Pendiente | 0 |
+| Extras (Tsubasa, Hane, Saku) | 419566–fin | ✅ Completo | Cartas y omakes de Tsubasa, Hane (Jessica/Falsificación), Saku (Flauros, ensayo de cuartos cerrados, entrevista del oro, doujin de Ange) |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
 ## Registro de avances
@@ -63,4 +64,5 @@ Cada cambio genera una compilación en la pestaña **Actions** del repositorio; 
 - **2026-06-12** — ✅ **Episodio 5 completado** (~7.800 líneas) en 6 oleadas: Beato reducida a muñeca, la llegada de la náufraga Furudo Erika, la llamada de chantaje a Natsuhi ("hace 19 años"), el duelo de Erika/Dlanor contra Beato en el estudio cerrado de Kinzo, el juicio de coartadas selladas, la masacre del ritual, el viaje de Battler por el Decálogo de Knox hasta la verdad, la **verdad dorada** que derrota a Dlanor, y Battler aceptando el puesto de Game Master para el EP6. Control de calidad reforzado: 4 lotes que volvieron sin tildes fueron re-traducidos, y se repararon etiquetas de voz `@v` y una animación letra-a-letra con `@y`.
 - **2026-06-12** — ✅ **Episodio 6 completado** (~8.570 líneas) en 6 oleadas: la boda-burla de Erika, el nacimiento de las dos Beato (la joven y la "Elder BEATRICE"), los demonios del amor Zepar y Furfur y la prueba de las parejas (George/Shannon vs Jessica/Kanon), la apuesta de Bernkastel (Erika sin autoridad de detective), el duelo del **cuarto cerrado de la cadena** que Battler gana con una jugada milagrosa, la **resurrección triunfal de Beatrice** irrumpiendo en la recepción contra las tropas Chiester, y el encuentro de Bernkastel con su antigua maestra **Featherine** para iniciar la séptima partida. Se normalizó el hablante "Elder BEATRICE" y se repararon etiquetas de voz y apóstrofos.
 - **2026-06-12** — ✅ **Episodio 7 completado** (~7.980 líneas) en 6 oleadas: el funeral de Beatrice, el trágico **pasado de Kinzo** (el oro italiano, la masacre, su amor por Bice), la verdad sobre **Yasu/Beatrice** (hija de Kinzo) y el origen de Shannon/Kanon/Lion en la Casa del Evangelio, el viaje de **Lion con Will** por los mundos alternativos, la coronación de Lion como BEATRICE y la muerte en paz de Kinzo, la **masacre de Kyrie y Rudolf** en la conferencia familiar, y el inicio del juego final que Battler narra a la pequeña **Ange**. Control de calidad: solo 2 apóstrofos sin escapar reparados; el resto limpio.
+- **2026-06-13** — ✅ **Extras completados** (Tsubasa, Hane, Saku, ~6.450 líneas) en 5 oleadas, y **traducidos los 172 títulos de sección/capítulo** que se muestran en pantalla. Con esto **todo el guion del juego queda traducido al español**. Además se hizo una corrección global del signo `~` de alargamiento (113 casos movidos al final de la palabra, p. ej. "amo~r" → "amor~") en todo el script, por convención del español.
 - **2026-06-13** — ✅ **Episodio 8 completado** (~9.490 líneas, el más largo) en 7 oleadas, ¡**cerrando la historia principal**! La llave dorada que Battler entrega a Ange, la fiesta de Halloween y el juego del rey, la fiesta final con todos los personajes, Ange descubriendo la masacre y siendo guiada por Bernkastel como **Bruja de la Verdad**, el asalto de las cabras a la **Tierra Dorada**, el sacrificio de **Lambdadelta contra Bernkastel**, el renacimiento de Ange como **ANGE BEATRICE** y el desbaratamiento del complot de Amakusa/Sumadera, y el conmovedor **reencuentro de Ange con Hachijo Tohya** (el cuerpo de Battler) en 1998, cerrando con el epílogo de la Casa del Evangelio reconstruida. Control de calidad: 2 oleadas reintentadas por límite de sesión, y un lote (deducción de Ange) re-traducido por venir sin tildes.
