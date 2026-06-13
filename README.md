@@ -1,7 +1,15 @@
 <!-- ===== Traducción al español (fork) ===== -->
-> 🇪🇸 **Traducción al español en curso.** Este es un fork del parche para traducir el juego al español.
+> 🇪🇸 **Traducción al español — V1 (texto completo).**
+> Este es un fork del parche inglés para traducir *Umineko no Naku Koro ni Saku* al español.
+>
+> ✅ **Todo el guion está traducido**: los 8 episodios principales (EP1–EP8), los extras (Tsubasa, Hane, Saku) y los títulos de capítulo en pantalla. ~70.000 líneas de diálogo.
+> 🖼️ **Lo único que falta son las imágenes** con texto (logos, botones de menú, algunos carteles dentro de las escenas). Por eso esto es una **V1**: jugable de principio a fin en español, con algunos elementos gráficos todavía en inglés. La traducción de las imágenes queda para una versión posterior.
+>
 > Consulta el estado y el avance en **[PROGRESO_ES.md](PROGRESO_ES.md)**. Criterio de traducción en [GUIA_DE_ESTILO_ES.md](GUIA_DE_ESTILO_ES.md).
 > Todo el crédito del parche original y la herramienta es del proyecto inglés ([enlace canónico](https://andolga.github.io/umineko-catbox-english)).
+>
+> ### 🙏 Agradecimientos
+> Esta traducción al español existe gracias a **Yumenocha**, a quien le apasiona este juego. Por su impulso y dedicación se llevó a cabo este trabajo. ¡Gracias de corazón!
 
 ---
 

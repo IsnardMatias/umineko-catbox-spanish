@@ -3,7 +3,10 @@
 Traducción al español del parche de **Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~** (port de consola, Entergram).
 Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://andolga.github.io/umineko-catbox-english) (enlace canónico) y en el fork de Lovahi.
 
-> **Estado general:** 🟡 En curso — fase inicial. La infraestructura, el build automático y los menús del sistema están listos; la traducción del guion principal está empezando.
+> **Estado general:** 🟢 **V1 (texto completo).** Todo el guion (EP1–EP8 + extras + títulos de capítulo) está traducido al español. El juego es jugable de principio a fin en español. Lo único pendiente son las **imágenes con texto** (logos, botones de menú, carteles), que se traducirán en una versión posterior.
+>
+> ### 🙏 Agradecimientos
+> Esta traducción al español se realizó gracias a **Yumenocha**, a quien le apasiona este juego. Por su impulso y dedicación fue posible este trabajo. ¡Muchas gracias!
 
 _Última actualización: 2026-06-12_
 
