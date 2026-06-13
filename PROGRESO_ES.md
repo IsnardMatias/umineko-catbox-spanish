@@ -7,9 +7,9 @@ Basada en el proyecto inglés de [andOlga / umineko-catbox-english](https://ando
 
 _Última actualización: 2026-06-12_
 
-> **Recta final:** EP1–EP6 traducidos (6 de 8 episodios, ~45.900 líneas).
+> **Recta final:** EP1–EP7 traducidos (7 de 8 episodios, ~53.900 líneas). Falta solo el EP8 y los extras.
 
-**EP1–EP6:** ✅ COMPLETOS. · Próximo: **EP7** (desde línea 309876).
+**EP1–EP7:** ✅ COMPLETOS. · Próximo: **EP8** (desde línea 356209).
 
 ---
 
@@ -20,8 +20,8 @@ _Última actualización: 2026-06-12_
 | Infraestructura / build (GitHub Actions) | ✅ Listo | Compila y genera parche descargable |
 | Caracteres del español (acentos, ¿ ¡) | ✅ Listo | Renderizan correctamente en el juego |
 | Menús y mensajes del sistema (guardar, cargar, config, Sí/No…) | ✅ ~Completo | Falta solo algún término menor |
-| **Guion — Episodios 1–6** | ✅ Completos | EP1–EP6 enteros traducidos (~45.900 líneas) |
-| Guion — Episodios 7–8 | ⬜ Pendiente | — |
+| **Guion — Episodios 1–7** | ✅ Completos | EP1–EP7 enteros traducidos (~53.900 líneas) |
+| Guion — Episodio 8 | ⬜ Pendiente | — |
 | Tsubasa / Hane / contenido extra de Saku | ⬜ Pendiente | — |
 | Juego de deducción de Bernkastel (EP8, texto de exefs) | ⬜ Pendiente | 1 de ~34 bloques |
 | Imágenes con texto (logos, botones) | ⬜ Pendiente | — |
@@ -38,7 +38,9 @@ Total de líneas de diálogo del juego: **~72.850**.
 | EP4 — Alianza de la Bruja Dorada | 137227–195414 | ✅ Completo | Episodio entero (Ange, masacre del ritual de Kinzo, sacrificio de Ange, duelo final Battler/Beatrice, epílogo Bernkastel/Lambdadelta) |
 | EP5 — Fin de la Bruja Dorada | 195415–250538 | ✅ Completo | Episodio entero (Beato muñeca, llegada de Erika, juicio de coartadas, verdad dorada, Battler nuevo Game Master) |
 | EP6 — Amanecer de la Bruja Dorada | 250539–309875 | ✅ Completo | Episodio entero (las dos Beato, demonios Zepar/Furfur, cuarto cerrado de cadena, resurrección de Beatrice, Bernkastel y Featherine) |
-| EP7–EP8 | — | ⬜ Pendiente | 0 |
+| EP7 — Réquiem de la Bruja Dorada | 309876–356208 | ✅ Completo | Episodio entero (pasado de Kinzo y Bice, origen de Yasu/Beatrice, mundo de Lion, Will y Clair, masacre de Kyrie/Rudolf, el juego final para Ange) |
+| EP8 — Crepúsculo de la Bruja Dorada | 356209–419565 | ⬜ Pendiente | 0 |
+| Extras (Tsubasa, Hane, Saku) | 419566–fin | ⬜ Pendiente | 0 |
 | Extras (Tsubasa, Hane, Saku) | — | ⬜ Pendiente | 0 |
 
 ## Registro de avances
@@ -60,3 +62,4 @@ Cada cambio genera una compilación en la pestaña **Actions** del repositorio; 
 - **2026-06-12** — ✅ **Episodio 4 completado** (~7.500 líneas). Cerradas las ~210 líneas que faltaban: el desmantelamiento de la tercera partida, la crucifixión de Beato con las estacas azules, su súplica de "mátame", y el epílogo de Bernkastel y Lambdadelta (la apuesta sobre el desenlace, el castigo de las gemas). Control de calidad: tildes/eñes, etiquetas `@v`/`@|`/`@y`, comillas rectas.
 - **2026-06-12** — ✅ **Episodio 5 completado** (~7.800 líneas) en 6 oleadas: Beato reducida a muñeca, la llegada de la náufraga Furudo Erika, la llamada de chantaje a Natsuhi ("hace 19 años"), el duelo de Erika/Dlanor contra Beato en el estudio cerrado de Kinzo, el juicio de coartadas selladas, la masacre del ritual, el viaje de Battler por el Decálogo de Knox hasta la verdad, la **verdad dorada** que derrota a Dlanor, y Battler aceptando el puesto de Game Master para el EP6. Control de calidad reforzado: 4 lotes que volvieron sin tildes fueron re-traducidos, y se repararon etiquetas de voz `@v` y una animación letra-a-letra con `@y`.
 - **2026-06-12** — ✅ **Episodio 6 completado** (~8.570 líneas) en 6 oleadas: la boda-burla de Erika, el nacimiento de las dos Beato (la joven y la "Elder BEATRICE"), los demonios del amor Zepar y Furfur y la prueba de las parejas (George/Shannon vs Jessica/Kanon), la apuesta de Bernkastel (Erika sin autoridad de detective), el duelo del **cuarto cerrado de la cadena** que Battler gana con una jugada milagrosa, la **resurrección triunfal de Beatrice** irrumpiendo en la recepción contra las tropas Chiester, y el encuentro de Bernkastel con su antigua maestra **Featherine** para iniciar la séptima partida. Se normalizó el hablante "Elder BEATRICE" y se repararon etiquetas de voz y apóstrofos.
+- **2026-06-12** — ✅ **Episodio 7 completado** (~7.980 líneas) en 6 oleadas: el funeral de Beatrice, el trágico **pasado de Kinzo** (el oro italiano, la masacre, su amor por Bice), la verdad sobre **Yasu/Beatrice** (hija de Kinzo) y el origen de Shannon/Kanon/Lion en la Casa del Evangelio, el viaje de **Lion con Will** por los mundos alternativos, la coronación de Lion como BEATRICE y la muerte en paz de Kinzo, la **masacre de Kyrie y Rudolf** en la conferencia familiar, y el inicio del juego final que Battler narra a la pequeña **Ange**. Control de calidad: solo 2 apóstrofos sin escapar reparados; el resto limpio.
